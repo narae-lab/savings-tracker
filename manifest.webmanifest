@@ -1,7 +1,7 @@
 {
-  "name": "내 돈의 주도권 9/16~12/31",
-  "short_name": "주도권",
-  "description": "저축과 운동을 함께 기록하는 나래의 개인 트래커",
+  "name": "Tracker",
+  "short_name": "Tracker",
+  "description": "저축, 운동 기록용 개인 트래커",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
